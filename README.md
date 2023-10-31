@@ -14,5 +14,5 @@ pulumi stack init dev
 Install `pulumi-netbox` Python 3 package:
 
 ```bash
-pip install pulumi-netbox
+pip install git+https://github.com/juhnny5/pulumi-netbox.git@3b60cf3136e158c640fa1510841df78ddfffddd5 
 ```
